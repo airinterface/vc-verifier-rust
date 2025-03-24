@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "utils/config",
+    "utils/jwt-utils",
+    "scripts",
+    "server",
+]
